@@ -1,13 +1,4 @@
-v## Running React on Repl.it
-
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
-
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
-
-Using the two in conjunction is one of the fastest ways to build a web app.
-
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Repl.it runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
+This project was made by a amazing artist on <a href="https://dribbble.com/shots/15865091-The-Brainbob-mobile-app/attachments/7688318?mode=media
+">dribble.com</a>
+<img src="https://cdn.dribbble.com/users/1998175/screenshots/15865091/media/03d251f151d9cd7141f72450eb46bcf2.jpg![image](https://user-images.githubusercontent.com/73265655/123007891-f20e4800-d387-11eb-937e-c3c416299e31.png)
+" />
